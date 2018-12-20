@@ -6,7 +6,7 @@ Player should control the rolling rock and player object at a time, and should a
 Simple android game to control with both hands.
 
 ## Project Schedule
-
+![ScreenShot](/Images/RollingStone.png)
 ### 1st Week
 * Setting up Project Schedule
 * Designing Game Rules and Levels
